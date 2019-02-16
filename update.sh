@@ -1,7 +1,7 @@
 SCRIPT_DIR=$(dirname $0)
 
 sudo echo
-echo && echo "# Updating APT packages" && echo
+echo && echo "# Updating Apt packages" && echo
 $SCRIPT_DIR/apt.sh
 echo && echo "# Updating Python 3 packages" && echo
 $SCRIPT_DIR/python3.sh
