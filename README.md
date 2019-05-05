@@ -1,2 +1,2 @@
 # Update
-Update is a utitlity package that automatically updates APT, Python 3, Node.js, and Ruby packages.
+Update is a utitlity package that automatically updates Apt, Python 3, Node.js, and Ruby packages.
