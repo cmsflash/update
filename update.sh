@@ -8,5 +8,6 @@ $script_dir/python3.sh
 echo && echo "# Updating Node.js packages" && echo
 sudo npm update -g
 echo && echo "# Updating Ruby packages" && echo
+sudo gem update --system
 sudo gem update
 
